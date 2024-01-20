@@ -1,0 +1,583 @@
+1
+
+00:00:00,400 --> 00:00:01,840
+
+Hello!
+
+
+2
+
+00:00:01,840 --> 00:00:06,800
+
+Today we will talk about
+what is IMRAD format,
+
+
+3
+
+00:00:06,800 --> 00:00:10,360
+
+what is research
+article in IMRAD format,
+
+
+4
+
+00:00:10,360 --> 00:00:16,200
+
+namely about the logical structure
+and the contents of each section.
+
+
+5
+
+00:00:17,200 --> 00:00:22,160
+
+What is the IMRAD format?
+and why lately
+
+
+6
+
+00:00:22,160 --> 00:00:25,120
+
+many Russian magazines
+is it used?
+
+
+7
+
+00:00:25,120 --> 00:00:29,960
+
+The fact is that this is a very convenient format
+presentation of scientific information.
+
+
+8
+
+00:00:29,960 --> 00:00:35,040
+
+He introduces himself, is often depicted
+metaphorically in the form of an hourglass,
+
+
+9
+
+00:00:35,040 --> 00:00:42,760
+
+when, look, the information, the logic of presenting it...
+First, some general information is given,
+ 
+
+
+
+10
+
+00:00:42,760 --> 00:00:50,520
+
+information in the “methods” and “results” section
+is given specifically within the framework of this study,
+
+
+11
+
+00:00:50,520 --> 00:00:54,840
+
+and then the process happens
+the reverse, let's say, funnel,
+
+
+12
+
+00:00:54,840 --> 00:00:58,080
+
+when the results obtained are interpreted,
+
+
+13
+
+00:00:58,080 --> 00:01:03,760
+
+they are given broader meanings,
+and then the conclusion is given.
+
+
+14
+
+00:01:03,760 --> 00:01:08,120
+
+And this abbreviation IMRAD -
+it entered the Russian language,
+
+
+15
+
+00:01:08,120 --> 00:01:13,240
+
+but its meaning is essentially this:
+this is an introduction,
+
+
+16
+
+00:01:13,240 --> 00:01:16,200
+
+methods – methods,
+
+
+17
+
+00:01:16,200 --> 00:01:21,240
+
+results, “R” is the letter in the abbreviation
+- these are the results
+
+
+18
+
+00:01:21,240 --> 00:01:25,760
+
+and finally, discussion –
+this is a discussion of the results.
+
+
+19
+
+00:01:25,760 --> 00:01:31,800
+
+The letter “A” is, in fact, the conjunction and.
+
+
+20
+
+00:01:31,800 --> 00:01:37,560
+
+This is the format... He received
+distribution and development,
+
+
+21
+
+00:01:37,560 --> 00:01:42,560
+
+In general, it went through a very long evolution,
+because from the very beginning,
+
+
+22
+
+00:01:42,560 --> 00:01:46,760
+
+when science was born
+no one wrote in IMRAD format,
+
+
+23
+
+00:01:46,760 --> 00:01:50,680
+
+and did not follow such logic,
+because scientists exchanged
+
+
+24
+
+00:01:50,680 --> 00:01:55,400
+
+letters in the form of essays,
+in the form of some thoughts.
+
+
+25
+
+00:01:55,400 --> 00:02:01,160
+
+And so it is attributed to Louis Pasteur,
+in fact, championship.
+
+
+26
+
+00:02:01,160 --> 00:02:06,000
+
+This has not been proven, but it appears
+that it was he who started this logic
+
+
+27
+
+00:02:06,000 --> 00:02:12,480
+
+include in your articles,
+and therefore gave shape to this format.
+
+
+28
+
+00:02:12,480 --> 00:02:18,120
+
+In the 70s, the IMRAD format began
+actively develop, mainly
+
+
+29
+
+00:02:18,120 --> 00:02:23,200
+
+in the English-language domain of scientific publication,
+scientific communications,
+
+
+30
+
+00:02:23,200 --> 00:02:31,680
+
+and initially it was medicine, physics, chemistry,
+that is, such empirical sciences.
+
+
+31
+
+00:02:31,680 --> 00:02:37,520
+
+But, of course, even more rapid development
+he receives in 1972,
+
+
+32
+
+00:02:37,520 --> 00:02:41,760
+
+when it was secured
+in the US national standard,
+
+
+33
+
+00:02:41,760 --> 00:02:44,920
+
+This is basically an analogue
+to our GOSTs.
+
+
+34
+
+00:02:44,920 --> 00:02:52,440
+
+And after that, already in the 80s we see
+that many magazines around the world accept it
+
+
+35
+
+00:02:52,440 --> 00:02:57,280
+
+as a standard, prescribed
+in the instructions for authors
+
+
+36
+
+00:02:57,280 --> 00:03:00,160
+
+in various fields of science and technology.
+
+
+37
+
+00:03:00,160 --> 00:03:01,600
+
+What is happening in Russia?
+
+
+38
+
+00:03:01,600 --> 00:03:08,480
+
+In Russia there was a slightly unbalanced development,
+and originally the IMRAD format
+
+
+39
+
+00:03:08,480 --> 00:03:15,680
+
+developed in the following areas:
+like physics, I already mentioned, and chemistry, of course,
+
+
+40
+
+00:03:15,680 --> 00:03:23,640
+
+but already in the 10s, in 2010 and today
+we see that it is becoming simply ubiquitous
+
+
+41
+
+00:03:23,640 --> 00:03:30,080
+
+in Russian magazines, used everywhere,
+even in areas where he, in general,
+
+
+42
+
+00:03:30,080 --> 00:03:34,560
+
+may not have always been used before,
+for example, in the field of pedagogy.
+
+
+43
+
+00:03:34,560 --> 00:03:39,440
+
+Many modern magazines, Russian, for example,
+magazine, "Integration of Education" -
+
+
+44
+
+00:03:40,440 --> 00:03:45,080
+
+you can see that they are clearly
+adhere to this format.
+
+
+45
+
+00:03:45,080 --> 00:03:50,560
+
+Why? In fact, this format
+has a huge number of advantages.
+
+
+46
+
+00:03:50,560 --> 00:03:57,000
+
+because if we know how
+the information in this article is presented,
+
+
+47
+
+00:03:57,000 --> 00:04:01,880
+
+It's very easy for us to extract it,
+because when we are ready,
+
+
+48
+
+00:04:01,880 --> 00:04:05,800
+
+what if we are interested
+namely research methods,
+
+
+49
+
+00:04:05,800 --> 00:04:11,200
+
+we'll open the methods section and see
+How reliable were the methods?
+
+
+50
+
+00:04:11,200 --> 00:04:14,680
+
+and, accordingly, were
+reliable results were obtained.
+
+
+51
+
+00:04:16,040 --> 00:04:19,880
+
+Accordingly, it is simplified
+and speeds up the review process,
+
+
+52
+
+00:04:19,880 --> 00:04:25,720
+
+because reviewers don't have to
+every time to delve into the logic of presentation,
+
+
+53
+
+00:04:25,720 --> 00:04:31,320
+
+and, accordingly, accelerates
+circulation of scientific information,
+
+
+54
+
+00:04:31,320 --> 00:04:34,520
+
+the so-called transfer of scientific knowledge.
+
+
+55
+
+00:04:34,520 --> 00:04:38,840
+
+The process of writing scientific articles
+becomes less labor intensive.
+
+
+56
+
+00:04:38,840 --> 00:04:44,880
+
+And this is a huge problem for many - especially
+beginner scientists write a scientific article.
+
+
+57
+
+00:04:44,880 --> 00:04:50,120
+
+And those graduate students, my graduate students,
+who came to me
+
+
+58
+
+00:04:50,120 --> 00:04:58,320
+
+many of them said that we were going into science
+study physics and chemistry,
+
+
+59
+
+00:04:58,320 --> 00:05:03,360
+
+and in the end we turned out to be writers,
+and indeed it is.
+
+
+60
+
+00:05:03,360 --> 00:05:08,680
+
+But this format makes it easier
+process of writing a scientific article,
+
+
+61
+
+00:05:08,680 --> 00:05:14,480
+
+and in the end we see that scientific knowledge,
+of course it's circulating today
+
+
+62
+
+00:05:14,480 --> 00:05:21,400
+
+much more efficient
+than it was 60 years ago.
+
+
+63
+
+00:05:21,400 --> 00:05:25,320
+
+Let's take a closer look
+for each section,
+
+
+64
+
+00:05:25,320 --> 00:05:33,160
+
+and I draw your attention to the fact that
+that some sections of the article are in IMRAD format
+
+
+65
+
+00:05:33,160 --> 00:05:37,680
+
+already more formalized
+and very highly structured.
+
+
+66
+
+00:05:37,680 --> 00:05:42,680
+
+Among them we will carefully look
+to "Introduction" and "Methods".
+
+
+67
+
+00:05:42,680 --> 00:05:45,720
+
+In the "Results" section
+and “Discussion of results”
+
+
+68
+
+00:05:45,720 --> 00:05:51,040
+
+such a strict logic of presentation, of course,
+no and cannot be, but, nevertheless,
+
+
+69
+
+00:05:51,040 --> 00:05:58,840
+
+this is precisely the “Introduction” section - this is very today
+already formalized style and logic of presentation.
+
+
+70
+
+00:05:58,840 --> 00:06:02,720
+
+The purpose of this section is to answer the question:
+
+
+71
+
+00:06:02,720 --> 00:06:08,560
+
+Why was the study done at all?
+who did what before?
+
+
+72
+
+00:06:08,560 --> 00:06:13,800
+
+Formulate the problem, that is, find
+This is a small gap in scientific knowledge,
+
+
+73
+
+00:06:13,800 --> 00:06:19,720
+
+which was not covered by previous works,
+describe goals and objectives
+
+
+74
+
+00:06:19,720 --> 00:06:25,240
+
+and, in the end, give a general

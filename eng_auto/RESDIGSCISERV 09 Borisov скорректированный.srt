@@ -1,0 +1,904 @@
+1
+
+00:00:00,080 --> 00:00:01,880
+
+My name is Vasily Borisov,
+
+
+2
+
+00:00:01,880 --> 00:00:03,960
+
+I am the director of master's programs
+
+
+3
+
+00:00:03,960 --> 00:00:08,240
+
+“Applied Artificial Intelligence” and “Machine Learning Engineering”,
+
+
+4
+
+00:00:08,240 --> 00:00:13,040
+
+and I'll tell you
+about artificial intelligence for science.
+
+
+5
+
+00:00:13,040 --> 00:00:16,200
+
+Artificial intelligence is a field of computer science
+
+
+6
+
+00:00:16,200 --> 00:00:21,160
+
+which is engaged in the creation of programs and systems capable of performing tasks,
+
+
+7
+
+00:00:21,160 --> 00:00:25,040
+
+which usually require human intellectual abilities.
+
+
+8
+
+00:00:25,040 --> 00:00:28,120
+
+These tasks may include pattern recognition,
+
+
+9
+
+00:00:28,120 --> 00:00:32,360
+
+natural language processing, planning and decision making.
+
+
+10
+
+00:00:32,360 --> 00:00:37,240
+
+Artificial intelligence uses methods of machine learning, deep learning,
+
+
+11
+
+00:00:37,240 --> 00:00:42,520
+
+neural networks and other technologies for data analysis and model creation,
+
+
+12
+
+00:00:42,520 --> 00:00:46,120
+
+which can imitate human thinking.
+
+
+13
+
+00:00:46,120 --> 00:00:49,200
+
+The term "artificial intelligence" was coined by John McCarthy
+
+
+14
+
+00:00:49,200 --> 00:00:54,160
+
+at the Dartmouth Conference back in 1956.
+
+
+15
+
+00:00:54,160 --> 00:00:57,320
+
+Development of artificial intelligence over the past 70 years
+
+
+16
+
+00:00:57,320 --> 00:01:00,160
+
+can be divided into several stages.
+
+
+17
+
+00:01:00,160 --> 00:01:06,080
+
+At the first stages, systems were created
+using logical databases and rules.
+
+
+18
+
+00:01:06,080 --> 00:01:09,240
+
+The second stage began with the advent of machine learning,
+
+
+19
+
+00:01:09,240 --> 00:01:11,880
+
+At this stage, algorithms were developed
+
+
+20
+
+00:01:11,880 --> 00:01:16,840
+
+allowing computers to learn from experience and make predictions.
+
+
+21
+
+00:01:16,840 --> 00:01:21,440
+
+This was followed by the stage of development of deep learning and neural networks,
+
+
+22
+
+00:01:21,440 --> 00:01:25,840
+
+At this stage, deep learning models were created.
+
+
+23
+
+00:01:25,840 --> 00:01:28,360
+
+History of the emergence of large language models
+
+
+24
+
+00:01:28,360 --> 00:01:33,440
+
+begins with the development of simpler models in the 80s and 90s.
+
+
+25
+
+00:01:33,440 --> 00:01:40,040
+
+However, a real breakthrough in this area
+occurred in the late 2010s with the advent of technology
+
+
+26
+
+00:01:40,040 --> 00:01:40,706
+
+generative pre-trained transformers - such as neural language models,
+
+
+27
+
+00:01:40,706 --> 00:01:51,000
+
+which are trained on large datasets to generate human-like text.
+
+
+28
+
+00:01:51,000 --> 00:01:55,600
+
+Currently, the ongoing development and improvement of artificial
+
+
+29
+
+00:01:55,600 --> 00:01:57,880
+
+intelligence includes deep learning,
+
+
+30
+
+00:01:57,880 --> 00:02:02,200
+
+natural language processing and computer vision.
+
+
+31
+
+00:02:02,200 --> 00:02:05,160
+
+There are two types of artificial intelligence:
+
+
+32
+
+00:02:05,160 --> 00:02:09,160
+
+strong (or general) and weak (or specialized).
+
+
+33
+
+00:02:09,160 --> 00:02:13,000
+
+Examples of weak artificial intelligence are smart home technologies,
+
+
+34
+
+00:02:13,000 --> 00:02:17,400
+
+online translators, image recognition systems, and so on.
+
+
+35
+
+00:02:17,400 --> 00:02:23,040
+
+Weak artificial intelligence is capable of solving only those tasks for which it was created and trained.
+
+
+36
+
+00:02:23,040 --> 00:02:26,520
+
+For example, a chess program can only play chess.
+
+
+37
+
+00:02:26,520 --> 00:02:30,440
+
+What distinguishes strong artificial intelligence from weak artificial intelligence is its ability to decide
+
+
+38
+
+00:02:30,440 --> 00:02:33,560
+
+various tasks, rather than highly specialized ones.
+
+
+39
+
+00:02:33,560 --> 00:02:37,280
+
+At the moment there is no strong artificial intelligence,
+
+
+40
+
+00:02:37,280 --> 00:02:40,840
+
+which would be capable of solving a wide range of problems.
+
+
+41
+
+00:02:40,840 --> 00:02:46,040
+
+Scientists and experts argue about the possibilities and timing of creating artificial intelligence,
+
+
+42
+
+00:02:46,040 --> 00:02:50,560
+
+representing the integration of already created artificial intelligence systems
+
+
+43
+
+00:02:50,560 --> 00:02:56,200
+
+into a single system capable
+solve humanity's problems.
+
+
+44
+
+00:02:56,200 --> 00:02:59,120
+
+Rapid development of artificial intelligence technologies
+
+
+45
+
+00:02:59,120 --> 00:03:02,520
+
+requires control by society and the state.
+
+
+46
+
+00:03:02,520 --> 00:03:06,480
+
+The Alliance in Artificial Intelligence brings together leading research centers
+
+
+47
+
+00:03:06,480 --> 00:03:10,600
+
+and technology companies in Russia in order to develop their competencies
+
+
+48
+
+00:03:10,600 --> 00:03:13,120
+
+and accelerated implementation of artificial intelligence
+
+
+49
+
+00:03:13,120 --> 00:03:17,680
+
+in education, research and practical business activities.
+
+
+50
+
+00:03:17,680 --> 00:03:22,080
+
+The main task of the Alliance is to provide technological
+
+
+51
+
+00:03:22,080 --> 00:03:26,680
+
+leadership of our country in the global high-tech market.
+
+
+52
+
+00:03:26,680 --> 00:03:31,160
+
+The use of artificial intelligence in science and industry is developing dynamically
+
+
+53
+
+00:03:31,160 --> 00:03:34,640
+
+and covers all new areas of human life.
+
+
+54
+
+00:03:34,640 --> 00:03:39,040
+
+This rapid spread of technology causes concern among citizens,
+
+
+55
+
+00:03:39,040 --> 00:03:42,160
+
+how safe is artificial intelligence for humans,
+
+
+56
+
+00:03:42,160 --> 00:03:44,720
+
+in which areas it is permissible to use it,
+
+
+57
+
+00:03:44,720 --> 00:03:50,360
+
+who will be responsible for the actions of artificial intelligence, etc.
+
+
+58
+
+00:03:50,360 --> 00:03:56,160
+
+Large language models can be used for scientific purposes to solve various problems.
+
+
+59
+
+00:03:56,160 --> 00:04:00,600
+
+For example, they can be used
+for processing large volumes of text data -
+
+
+60
+
+00:04:00,600 --> 00:04:04,720
+
+such as analysis of scientific articles, patents or medical records.
+
+
+61
+
+00:04:04,720 --> 00:04:08,400
+
+They can also help in sentiment analysis of the text,
+
+
+62
+
+00:04:08,400 --> 00:04:12,960
+
+identifying keywords and phrases, as well as identifying plagiarism.
+
+
+63
+
+00:04:12,960 --> 00:04:20,120
+
+The model in its work receives a “prompt” as input - this is a request from the user or a set of keywords,
+
+
+64
+
+00:04:20,120 --> 00:04:24,480
+
+and then selects the most suitable next word,
+
+
+65
+
+00:04:24,480 --> 00:04:28,360
+
+after that, the resulting string is again fed to the input of the model,
+
+
+66
+
+00:04:28,360 --> 00:04:32,400
+
+and she selects another word.
+
+
+67
+
+00:04:32,400 --> 00:04:36,760
+
+Using prompts to write texts allows graduate students to better
+
+
+68
+
+00:04:36,760 --> 00:04:40,880
+
+understand the unique challenges associated with writing scientific papers,
+
+
+69
+
+00:04:40,880 --> 00:04:45,880
+
+and develop the skills necessary to work effectively in this field.
+
+
+70
+
+00:04:45,880 --> 00:04:48,400
+
+It should be noted, however,
+
+
+71
+
+00:04:48,400 --> 00:04:53,680
+
+that one should always use the most modern and advanced technologies available
+
+
+72
+
+00:04:53,680 --> 00:04:57,400
+
+for you the moment you use them.
+
+
+73
+
+00:04:57,400 --> 00:05:01,520
+
+There are many different types of prompts,
+
+
+74
+
+00:05:01,520 --> 00:05:06,880
+
+which can be applied regardless of which language model you are using.
+
+
+75
+
+00:05:06,880 --> 00:05:13,800
+
+The basic principle is to always start a query with an action verb, for example, “come up with options”
+
+
+76
+
+00:05:13,800 --> 00:05:16,440
+
+“write”, “analyze” and so on.
+
+
+77
+
+00:05:16,440 --> 00:05:22,240
+
+Clearly formulate the end goal - the type of content, for example, an analytical article,
+
+
+78
+
+00:05:22,240 --> 00:05:26,400
+
+description of the schedule or email and subject matter.
+
+
+79
+
+00:05:26,400 --> 00:05:29,520
+
+You can create complex three-step tasks,
+
+
+80
+
+00:05:29,520 --> 00:05:34,840
+
+including collecting information, summarizing and creating a final answer.
+
+
+81
+
+00:05:34,840 --> 00:05:39,840
+
+You can also specify the length of the text (for example, from 400 to 800 characters).
+
+
+82
+
+00:05:39,840 --> 00:05:46,600
+
+If you don't want to go into detail,
+you can simply write: short or long text.
+
+
+83
+
+00:05:46,600 --> 00:05:50,880
+
+There are several types of scientific tasks that can be automated
+
+
+84
+
+00:05:50,880 --> 00:05:54,920
+
+using artificial intelligence. For example, classification of articles.
+
+
+85
+
+00:05:54,920 --> 00:05:57,520
+
+Artificial intelligence can categorize articles
+
+
+86
+
+00:05:57,520 --> 00:06:03,120
+
+according to various categories such as topic, type of study, year of publication, and so on.
+
+
+87
+
+00:06:03,120 --> 00:06:07,000
+
+Text analysis: artificial intelligence can analyze the text of an article,
+
+
+88
+
+00:06:07,000 --> 00:06:12,040
+
+identifying key words, phrases and ideas and their relationships.
+
+
+89
+
+00:06:12,040 --> 00:06:15,760
+
+Identification of authors: artificial intelligence can determine the authors of an article,
+
+
+90
+
+00:06:15,760 --> 00:06:19,200
+
+by comparing their writing style to other authors in the database.
+
+
+91
+
+00:06:19,200 --> 00:06:23,760
+
+Article quality assessment: artificial intelligence can evaluate the quality of the article itself,
+
+
+92
+
+00:06:23,760 --> 00:06:28,080
+
+analyzing its structure, research quality and results.
+
+
+93
+
+00:06:28,080 --> 00:06:31,320
+
+You can see the main action verbs on the slide
+
+
+94
+
+00:06:31,320 --> 00:06:38,520
+
+and try to use them in working with large language models.
+
+
+95
+
+00:06:38,520 --> 00:06:41,440
+
+Basic principles for creating effective prompts
+
+
+96
+
+00:06:41,440 --> 00:06:45,320
+
+for artificial intelligence systems include the following aspects.
+
+
+97
+
+00:06:45,320 --> 00:06:48,600
+
+The first is precision and clarity: requests must be formulated
+
+
+98
+
+00:06:48,600 --> 00:06:52,400
+
+so clear and precise that the system can understand what exactly is required.
+
+
+99
+
+00:06:53,200 --> 00:06:54,840
+
+The second is specificity:
+
+
+100
+
+00:06:54,840 --> 00:06:59,360
+
+requests must be specific and specific to a particular task or situation.
+
+
+101
+
+00:06:59,360 --> 00:07:01,000
+
+Third, grammatical correctness:
+
+
+102
+
+00:07:01,000 --> 00:07:03,600
+
+queries must be grammatically correct,
+
+
+103
+
+00:07:03,600 --> 00:07:07,680
+
+so that the artificial intelligence system can interpret them correctly.
+
+
+104
+
+00:07:07,680 --> 00:07:11,440
+
+Understandability: queries must be understandable to the artificial intelligence system,
+
+
+105
+
+00:07:11,440 --> 00:07:15,640
+
+so she can find the information she needs or complete a task.
+
+
+106
+
+00:07:15,640 --> 00:07:18,280
+
+Optimization:
+queries must be optimized
+
+
+107
+
+00:07:18,280 --> 00:07:24,120
+
+to achieve the best results,
+for example, for better efficiency or performance.
+
+
+108
+
+00:07:24,120 --> 00:07:28,840
+
+And finally, saving resources.
+
+
+109
+
+00:07:28,840 --> 00:07:32,640
+
+Text generated using artificial intelligence technology
+
+
+110
+
+00:07:32,640 --> 00:07:36,160
+
+can be easily detected using special tools.
+
+
+111
+
+00:07:36,160 --> 00:07:39,600
+
+Public text detection services,
+
+
+112
+
+00:07:39,600 --> 00:07:44,280
+
+generated using large language models are presented on the slide.
+
+
+113
+
+00:07:44,280 --> 00:07:48,960
+
+But they are also developing rapidly and new ones are appearing.
+
+
+114
+
+00:07:48,960 --> 00:07:54,240
+
+Academic integrity requires acting ethically and responsibly in the learning process.
+
+
+115
+
+00:07:54,240 --> 00:07:56,440
+
+and preparation of scientific texts.
+
+
+116
+
+00:07:56,440 --> 00:08:01,160
+
+It should be remembered that the use of artificial intelligence tools for plagiarism
+
+
+117
+
+00:08:01,160 --> 00:08:06,560
+
+Forgery, cheating in exams or research will not be tolerated.
+
+
+118
+
+00:08:06,560 --> 00:08:10,640
+
+Using large language models provides a convenient mechanism
+
+
+119
+
+00:08:10,640 --> 00:08:13,320
+
+for working with large amounts of information.
+
+
+120
+
+00:08:13,320 --> 00:08:15,680
+
+But it is worth emphasizing that the use
+
+
+121
+
+00:08:15,680 --> 00:08:18,960
+
+such tools have only an auxiliary function
+
+
+122
+
+00:08:18,960 --> 00:08:22,760
+
+and eases the graduate student’s path in preparing their dissertation.
+
+
+123
+
+00:08:22,760 --> 00:08:24,920
+
+On the other hand, one should not hope
+
+
+124
+
+00:08:24,920 --> 00:08:30,400
+
+that the use of state-of-the-art methods will replace you and your dissertation work.
+
+
+125
+
+00:08:30,400 --> 00:08:34,360
+
+The author and only the author is responsible for the final result,
+
+
+126
+
+00:08:34,360 --> 00:08:37,040
+
+since the use of artificial intelligence technology
+
+
+127
+
+00:08:37,040 --> 00:08:41,200
+
+when writing text can be easily calculated using special methods.
+
+
+128
+
+00:08:41,200 --> 00:08:42,640
+
+Thank you for your attention.
+
+

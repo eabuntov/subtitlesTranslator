@@ -1,0 +1,497 @@
+1
+
+00:00:00,200 --> 00:00:02,120
+
+Good afternoon, dear listeners.
+
+
+2
+
+00:00:02,120 --> 00:00:05,160
+
+Today we will look at
+scientific citation systems
+
+
+3
+
+00:00:05,160 --> 00:00:10,400
+
+and how to use them to extract
+maximum benefit for the dissertation candidate.
+
+
+4
+
+00:00:10,400 --> 00:00:15,520
+
+The Scientific Citation System is an electronic bibliographic database,
+
+
+5
+
+00:00:15,520 --> 00:00:19,280
+
+containing some analytical
+information about publications,
+
+
+6
+
+00:00:20,200 --> 00:00:23,760
+
+These include scientific journals, book publications, and patents.
+
+
+7
+
+00:00:23,760 --> 00:00:26,200
+
+Scientific citation systems are necessary to
+
+
+8
+
+00:00:26,200 --> 00:00:31,240
+
+to discover scientific works,
+as well as evaluate and analyze them,
+
+
+9
+
+00:00:31,240 --> 00:00:38,259
+
+not only them, but also publications,
+and publication activity of authors.
+
+
+10
+
+00:00:38,259 --> 00:00:41,480
+
+There are international systems
+scientific citation, there are two of them,
+
+
+11
+
+00:00:41,480 --> 00:00:47,560
+
+this is the Web of Science system, owned by the American company Thomson Scientific,
+
+
+12
+
+00:00:47,560 --> 00:00:53,440
+
+and the Scopus system, owned by the Dutch company Elsevier.
+
+
+13
+
+00:00:53,440 --> 00:01:00,720
+
+Both of these systems are generally accepted
+they publish several thousand scientific papers a year
+
+
+14
+
+00:01:00,720 --> 00:01:07,880
+
+and therefore are quite complete,
+and they are convenient to use for scientific research.
+
+
+15
+
+00:01:07,880 --> 00:01:11,640
+
+However, today
+on the territory of the Russian Federation
+
+
+16
+
+00:01:11,640 --> 00:01:15,880
+
+direct access to these systems,
+unfortunately, it is significantly limited.
+
+
+17
+
+00:01:16,680 --> 00:01:21,680
+
+In addition, to international bases
+scientific citations are not all included
+
+
+18
+
+00:01:21,680 --> 00:01:28,080
+
+scientific publications published in Russia,
+therefore in the Russian Federation there is
+
+
+19
+
+00:01:28,080 --> 00:01:33,240
+
+own scientific citation database,
+it's called eLibrary,
+
+
+20
+
+00:01:33,240 --> 00:01:38,120
+
+and its developer is
+electronic scientific library eLibrary.
+
+
+21
+
+00:01:39,360 --> 00:01:42,520
+
+There is its own
+science citation index,
+
+
+22
+
+00:01:42,520 --> 00:01:45,600
+
+it's called "Russian"
+Science Citation Index".
+
+
+23
+
+00:01:45,600 --> 00:01:51,640
+
+In addition to articles in scientific journals,
+The eLibrary database includes reports at conferences,
+
+
+24
+
+00:01:51,640 --> 00:01:56,080
+
+monographs, textbooks,
+as well as patents and dissertations.
+
+
+25
+
+00:01:56,080 --> 00:01:59,880
+
+ELibrary solves a number of problems for various
+categories of users.
+
+
+26
+
+00:01:59,880 --> 00:02:03,080
+
+We are interested in you and me
+categories of readers and authors.
+
+
+27
+
+00:02:03,080 --> 00:02:08,520
+
+eLibrary Challenges for Readers
+is, in fact, a search for a catalog of magazines,
+
+
+28
+
+00:02:09,440 --> 00:02:15,000
+
+this is a search by author, subject index and some scientific publishing houses,
+
+
+29
+
+00:02:15,000 --> 00:02:20,440
+
+about which we can learn, in fact,
+using this system.
+
+
+30
+
+00:02:20,440 --> 00:02:25,960
+
+In addition, for authors
+this is Science Index, or scientific index,
+
+
+31
+
+00:02:25,960 --> 00:02:28,200
+
+my colleagues will tell you about it in more detail,
+
+
+32
+
+00:02:28,200 --> 00:02:34,920
+
+and this is the Russian Science Citation Index - as the main one. It is assigned to all authors,
+
+
+33
+
+00:02:34,920 --> 00:02:41,640
+
+who have ever published their work on the territory of the Russian Federation.
+
+
+34
+
+00:02:41,640 --> 00:02:46,520
+
+So, we are on the start page
+scientific electronic library eLibrary.
+
+
+35
+
+00:02:46,520 --> 00:02:48,600
+
+Here is the site interface,
+
+
+36
+
+00:02:48,600 --> 00:02:56,400
+
+and we see several tabs with information for different categories of users.
+
+
+37
+
+00:02:56,400 --> 00:03:02,040
+
+What is useful to readers is, in fact, collections of publications, search queries and groups,
+
+
+38
+
+00:03:02,040 --> 00:03:05,920
+
+which you can customize for yourself.
+
+
+39
+
+00:03:05,920 --> 00:03:11,320
+
+For organizations and publishing houses
+there is also information
+
+
+40
+
+00:03:11,320 --> 00:03:15,600
+
+The same information is available for authors - these are instructions on how to register,
+
+
+41
+
+00:03:15,600 --> 00:03:25,320
+
+it’s like getting your own Science Index and some advice to help young scientists.
+
+
+42
+
+00:03:25,320 --> 00:03:31,520
+
+What else is important here...
+This is, in fact, a literary search.
+
+
+43
+
+00:03:31,520 --> 00:03:35,320
+
+We can make it happen with you
+basic literature search, e.g.
+
+
+44
+
+00:03:35,320 --> 00:03:41,680
+
+by one or more keywords,
+
+
+45
+
+00:03:41,680 --> 00:03:46,760
+
+and the search results obtained
+somehow analyze
+
+
+46
+
+00:03:46,760 --> 00:03:52,120
+
+you see that there is an icon,
+which means access to the full text.
+
+
+47
+
+00:03:53,880 --> 00:03:57,800
+
+Some publications are not available
+in full text format,
+
+
+48
+
+00:03:57,800 --> 00:04:00,200
+
+and, let’s say, you can watch them either
+
+
+49
+
+00:04:00,200 --> 00:04:05,240
+
+on the publisher’s website, or get only some bibliographic information on them.
+
+
+50
+
+00:04:06,400 --> 00:04:15,120
+
+In addition, you can use the navigator to search, that is, search according to various criteria,
+
+
+51
+
+00:04:15,120 --> 00:04:18,880
+
+for example, by authors,
+you can find your own profile this way
+
+
+52
+
+00:04:18,880 --> 00:04:22,880
+
+and see the analytics for yourself
+or according to other authors,
+
+
+53
+
+00:04:22,880 --> 00:04:26,840
+
+if you are interested in searching
+for this category.
+
+
+54
+
+00:04:26,840 --> 00:04:31,840
+
+Or configure it initially
+extended literature search.
+
+
+55
+
+00:04:31,840 --> 00:04:35,600
+
+Advanced Literature Search
+carried out in several categories,
+
+
+56
+
+00:04:36,840 --> 00:04:43,480
+
+for example, we are looking for publication type
+with the keyword “biosensor”,
+
+
+57
+
+00:04:43,480 --> 00:04:49,520
+
+when this keyword is only in the title of the publication,
+
+
+58
+
+00:04:49,520 --> 00:04:59,560
+
+and these, for example, are only scientific articles.
+
+
+59
+
+00:05:00,280 --> 00:05:04,760
+
+We are already getting significantly less
+number of publications, but nevertheless
+
+
+60
+
+00:05:04,760 --> 00:05:05,920
+
+there are still a lot of them.
+
+
+61
+
+00:05:06,640 --> 00:05:10,480
+
+To narrow down your search results, you need to be more specific, e.g.
+
+
+62
+
+00:05:10,480 --> 00:05:13,520
+
+by author's last name or year,
+
+
+63
+
+00:05:13,520 --> 00:05:18,200
+
+when it is necessary to find the most recent or, conversely, fundamental works.
+
+
+64
+
+00:05:19,080 --> 00:05:23,960
+
+In general, a literary search is carried out from large to small.
+
+
+65
+
+00:05:23,960 --> 00:05:35,200
+
+If you are just entering this area,
+or if you meet someone
+
+
+66
+
+00:05:35,200 --> 00:05:42,160
+

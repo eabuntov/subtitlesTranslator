@@ -14,7 +14,7 @@ def translate_folders(source: str, dest: str):
     file_list = glob(source + "/*.srt")
     for file_name in file_list:
         try:
-            with open(file_name, "r") as src:
+            with open(file_name, "r", encoding="utf-8") as src:
                 dest_name = file_name.replace(source, dest)
                 if os.path.isfile(dest_name):
                     print(f'Skipping {dest_name} - already exists')

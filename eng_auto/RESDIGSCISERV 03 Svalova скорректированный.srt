@@ -1,0 +1,855 @@
+1
+
+00:00:00,320 --> 00:00:02,000
+
+Good afternoon, dear listeners.
+
+
+2
+
+00:00:02,000 --> 00:00:04,960
+
+Today we will get to know you
+with digital services
+
+
+3
+
+00:00:04,960 --> 00:00:11,080
+
+for grant application activity
+and some features of this activity.
+
+
+4
+
+00:00:11,080 --> 00:00:14,520
+
+"Grant" - from the English "gift" - is a targeted financial subsidy,
+
+
+5
+
+00:00:14,520 --> 00:00:18,760
+
+which is provided to scientists for scientific research.
+
+
+6
+
+00:00:20,440 --> 00:00:22,840
+
+Grants are allocated from the federal budget,
+
+
+7
+
+00:00:23,560 --> 00:00:29,960
+
+from the budgets of the constituent entities of the Russian Federation and specialized non-profit funds,
+
+
+8
+
+00:00:29,960 --> 00:00:35,480
+
+charitable foundations and various international foundations.
+
+
+9
+
+00:00:35,480 --> 00:00:38,760
+
+One of the largest grant funds
+
+
+10
+
+00:00:38,760 --> 00:00:42,480
+
+on the territory of the Russian Federation is the Russian Science Foundation.
+
+
+11
+
+00:00:42,480 --> 00:00:44,920
+
+It is a non-profit organization
+
+
+12
+
+00:00:44,920 --> 00:00:51,760
+
+created for the purpose of financing and organizational support of scientific activities.
+
+
+13
+
+00:00:51,760 --> 00:00:56,280
+
+The Russian Science Foundation subsidizes scientific research in a number of areas,
+
+
+14
+
+00:00:56,280 --> 00:01:00,320
+
+which, in general, cover the main areas of scientific activity.
+
+
+15
+
+00:01:00,320 --> 00:01:05,920
+
+They are shown on the slide; we will not dwell on them in more detail.
+
+
+16
+
+00:01:05,920 --> 00:01:09,840
+
+Here is the start page of the information and analytical system
+
+
+17
+
+00:01:09,840 --> 00:01:11,200
+
+Russian Science Foundation.
+
+
+18
+
+00:01:12,080 --> 00:01:15,920
+
+It will appear in front of you as soon as you register and enter your username and password.
+
+
+19
+
+00:01:16,680 --> 00:01:19,120
+
+It contains a number of tabs.
+
+
+20
+
+00:01:19,120 --> 00:01:28,680
+
+This is information about current or already held competitions in calendar format, and, in fact,
+
+
+21
+
+00:01:28,680 --> 00:01:33,640
+
+already with the “create request” button active
+you can start creating requests right here.
+
+
+22
+
+00:01:34,840 --> 00:01:41,200
+
+Next is the participant form, which you should definitely fill out, since the information in the application
+
+
+23
+
+00:01:41,200 --> 00:01:42,720
+
+downloaded from here
+
+
+24
+
+00:01:42,720 --> 00:01:56,280
+
+that is, this is both personal information and information about the experience of participating in scientific projects,
+
+
+25
+
+00:01:56,280 --> 00:01:57,960
+
+awards and publications received,
+
+
+26
+
+00:01:59,280 --> 00:02:04,080
+
+All this must be filled out in this tab, which is called “Questionnaire”.
+
+
+27
+
+00:02:05,720 --> 00:02:12,040
+
+Next is the “Application” tab, it works, in fact, as an aggregator,
+
+
+28
+
+00:02:12,040 --> 00:02:15,960
+
+that is, this is the history of your applications, supported or unsupported
+
+
+29
+
+00:02:15,960 --> 00:02:18,760
+
+as a participant and as a leader.
+
+
+30
+
+00:02:18,760 --> 00:02:24,600
+
+You can return to it at any time
+and look at both the competition documentation,
+
+
+31
+
+00:02:24,600 --> 00:02:31,120
+
+and, in fact, everything that you stated and promised to the grant fund.
+
+
+32
+
+00:02:31,120 --> 00:02:34,960
+
+Next, the “Organizations” tab is the organization,
+
+
+33
+
+00:02:34,960 --> 00:02:40,280
+
+to which you are attached, that is, in our case it is the Ural Federal University,
+
+
+34
+
+00:02:40,280 --> 00:02:44,920
+
+and you should definitely check this point before submitting your application.
+
+
+35
+
+00:02:44,920 --> 00:02:50,560
+
+And “Fund Contacts” - information for feedback, information about
+
+
+36
+
+00:02:50,560 --> 00:02:58,400
+
+where to send a printed version of your application, it is presented on the last tab.
+
+
+37
+
+00:02:58,400 --> 00:03:01,240
+
+The Next Big Grant Fund
+
+
+38
+
+00:03:01,240 --> 00:03:04,080
+
+is the Grants Council of the President of the Russian Federation,
+
+
+39
+
+00:03:04,080 --> 00:03:09,080
+
+which was created for state support of young Russian scientists and leading scientific schools.
+
+
+40
+
+00:03:10,040 --> 00:03:15,520
+
+The Presidential Grants Council distributes Presidential grants for young scientists,
+
+
+41
+
+00:03:15,520 --> 00:03:19,040
+
+Presidential scholarships and some personal scholarships
+
+
+42
+
+00:03:19,040 --> 00:03:25,440
+
+also for young scientists working in certain areas of scientific activity.
+
+
+43
+
+00:03:25,440 --> 00:03:31,720
+
+Before you is the information and analytical system of the Grant Council of the President of the Russian Federation.
+
+
+44
+
+00:03:31,720 --> 00:03:39,800
+
+It includes a start page and, in fact, a number of pages that are dedicated to
+
+
+45
+
+00:03:39,800 --> 00:03:44,319
+
+grant application activities.
+
+
+46
+
+00:03:44,319 --> 00:03:46,760
+
+The start page provides up-to-date information about current
+
+
+47
+
+00:03:46,760 --> 00:03:53,280
+
+and completed competitions, also general information and some scientific analytics.
+
+
+48
+
+00:03:53,280 --> 00:03:59,720
+
+For example, here are the competition participants and various materials,
+
+
+49
+
+00:03:59,720 --> 00:04:03,720
+
+related to the activities of this fund itself.
+
+
+50
+
+00:04:03,720 --> 00:04:06,440
+
+Basic information is available to users
+
+
+51
+
+00:04:06,440 --> 00:04:13,320
+
+who have registered as participants in specific grant competitions.
+
+
+52
+
+00:04:13,320 --> 00:04:21,280
+
+This is the grant’s personal page, this is contact information, these are questions,
+
+
+53
+
+00:04:21,280 --> 00:04:24,120
+
+which you can ask technical support,
+
+
+54
+
+00:04:24,120 --> 00:04:26,560
+
+the history of the grant, in fact, everything you stated,
+
+
+55
+
+00:04:27,800 --> 00:04:33,320
+
+this is a history of data changes and some instructions about how
+
+
+56
+
+00:04:33,320 --> 00:04:39,880
+
+how to work with this system, and what you can do, write a review
+
+
+57
+
+00:04:39,880 --> 00:04:44,840
+
+in order to somehow be able to improve this system.
+
+
+58
+
+00:04:44,840 --> 00:04:50,440
+
+Let's consider the main stages of the grant application activities of scientists, there are seven of them.
+
+
+59
+
+00:04:50,440 --> 00:04:52,680
+
+First of all, if you want
+
+
+60
+
+00:04:52,680 --> 00:04:56,880
+
+To apply for a grant, you must carefully read the competition documentation.
+
+
+61
+
+00:04:56,880 --> 00:05:01,200
+
+Next - register in the appropriate digital system,
+
+
+62
+
+00:05:01,200 --> 00:05:05,880
+
+All grant applications today are submitted through the system,
+
+
+63
+
+00:05:05,880 --> 00:05:09,960
+
+in some cases it is necessary to attach a paper original,
+
+
+64
+
+00:05:09,960 --> 00:05:12,200
+
+in some cases there is no need for this.
+
+
+65
+
+00:05:12,840 --> 00:05:15,720
+
+The third stage is creating an application.
+
+
+66
+
+00:05:15,720 --> 00:05:19,360
+
+It is necessary to write an application in accordance with the competition documentation
+
+
+67
+
+00:05:19,360 --> 00:05:22,760
+
+and upload it accordingly to the digital service.
+
+
+68
+
+00:05:23,720 --> 00:05:29,520
+
+Next, the project team is formed in the system and the application is edited.
+
+
+69
+
+00:05:29,520 --> 00:05:31,320
+
+The sixth step is submitting an application.
+
+
+70
+
+00:05:31,320 --> 00:05:37,000
+
+And then the application goes through several stages of consideration within the fund,
+
+
+71
+
+00:05:37,000 --> 00:05:42,840
+
+and the fund publishes a list of winners within the established time frame,
+
+
+72
+
+00:05:42,840 --> 00:05:49,360
+
+and, in fact, at this stage it will be possible to get acquainted with the results of the competitive selection.
+
+
+73
+
+00:05:49,360 --> 00:05:54,440
+
+As you can see, the grant application procedure is quite multi-stage,
+
+
+74
+
+00:05:54,440 --> 00:05:58,400
+
+and each stage requires some effort.
+
+
+75
+
+00:05:58,400 --> 00:06:04,040
+
+We will look at the main elements of a well-prepared or, as I call it,
+
+
+76
+
+00:06:04,040 --> 00:06:06,240
+
+good grant application.
+
+
+77
+
+00:06:06,240 --> 00:06:11,960
+
+It should contain a title page, which should contain the title, authors,
+
+
+78
+
+00:06:11,960 --> 00:06:17,560
+
+a list of keywords and annotation for your application.
+
+
+79
+
+00:06:17,560 --> 00:06:21,760
+
+The abstract is what the expert will definitely read first.
+
+
+80
+
+00:06:21,760 --> 00:06:28,400
+
+It is important to remember that the expert is a very busy person and the abstract is a kind of advertisement according to which,
+
+
+81
+
+00:06:28,400 --> 00:06:33,720
+
+in general, in the first minutes it will become clear whether your application is a winning one or not,
+
+
+82
+
+00:06:33,720 --> 00:06:39,040
+
+Therefore, great attention is always paid to writing annotations.
+
+
+83
+
+00:06:39,040 --> 00:06:39,760
+
+Keywords.
+
+
+84
+
+00:06:40,560 --> 00:06:46,080
+
+An experienced keyword expert is immediately able to assess the problem and task,
+
+
+85
+
+00:06:46,080 --> 00:06:53,480
+
+which you designate, and at this stage also make some decisions for yourself.
+
+
+86
+
+00:06:53,480 --> 00:06:57,240
+
+Information about the manager and main executors of the project.
+
+
+87
+
+00:06:57,240 --> 00:07:00,840
+
+At this point, please do not forget to praise yourself,
+
+
+88
+
+00:07:00,840 --> 00:07:06,560
+
+provide a list of your publications, scientific background, some leadership experience
+
+
+89
+
+00:07:06,560 --> 00:07:13,440
+
+and the completion of previous projects that you and your project team have received awards.
+
+
+90
+
+00:07:13,440 --> 00:07:20,640
+
+All this will, of course, have a positive effect on the results of consideration of your application.
+
+
+91
+
+00:07:20,640 --> 00:07:26,240
+
+And the main content of the project, which includes a number of points -
+
+
+92
+
+00:07:26,240 --> 00:07:30,040
+
+this is a scientific problem that the project aims to solve,
+
+
+93
+
+00:07:30,040 --> 00:07:34,480
+
+this is, in fact, the problem that your project is intended to solve.
+
+
+94
+
+00:07:34,480 --> 00:07:40,280
+
+It should be written in sufficient detail, but at the same time succinctly in order to
+
+
+95
+
+00:07:40,280 --> 00:07:45,480
+
+so that it is clearly clear what your project is aimed at.
+
+
+96
+
+00:07:45,480 --> 00:07:48,640
+
+As a rule, scientific significance is highlighted as a separate item
+
+
+97
+
+00:07:48,640 --> 00:07:51,160
+
+and the relevance of solving the identified problem,
+
+
+98
+
+00:07:51,160 --> 00:07:59,547
+
+that is, what question, what burning topic
+
+
+99
+
+00:07:59,547 --> 00:08:00,880
+
+affects your project and how it is intended to solve it,
+
+
+100
+
+00:08:00,880 --> 00:08:04,240
+
+a specific task or tasks within the problem,
+
+
+101
+
+00:08:04,240 --> 00:08:06,480
+
+which the project aims to solve.
+
+
+102
+
+00:08:06,480 --> 00:08:08,880
+
+There may be one task, or there may be several,
+
+
+103
+
+00:08:09,600 --> 00:08:15,760
+
+It is recommended to do from five to seven tasks so that it is clear, in general,
+
+
+104
+
+00:08:15,760 --> 00:08:22,320
+
+how do you see, among other things, the breakdown of your project into stages.
+
+
+105
+
+00:08:22,320 --> 00:08:26,880
+
+Scientific novelty of the research and justification for the achievability of the results –
+
+
+106
+
+00:08:26,880 --> 00:08:31,560
+
+this is a kind of literary review, this is something that already exists
+
+
+107
+
+00:08:31,560 --> 00:08:35,680
+
+in conjunction with the current state of research, this is point five,
+
+
+108
+
+00:08:35,680 --> 00:08:43,480
+
+and how exactly your research is different, what new you bring to the scientific community,
+
+
+109
+
+00:08:43,480 --> 00:08:49,880
+
+what results do you plan to achieve and how new, original and significant are they,
+
+
+110
+
+00:08:49,880 --> 00:08:56,960
+
+and to what extent, of course, they are achievable within the framework of the project - time and resources.
+
+
+111
+
+00:08:56,960 --> 00:08:59,840
+
+The next stage is the proposed methods and approaches,
+
+
+112
+
+00:08:59,840 --> 00:09:03,720
+
+how will you achieve your goal,
+
+
+113
+
+00:09:04,720 --> 00:09:07,680
+
+what modern scientific methods you will use.
+
+
+114
+
+00:09:07,680 --> 00:09:12,480
+
+Maybe you offer some of your own original approaches, of course, about this
+
+
+115
+
+00:09:12,480 --> 00:09:14,000
+
+worth writing in this paragraph.
+
+
+116
+
+00:09:15,160 --> 00:09:21,280
+
+You should also outline the general work plan for the entire implementation period and the expected results.
+
+
+117
+
+00:09:21,280 --> 00:09:25,200
+
+A general work plan is sometimes required, broken down by performer
+
+
+118
+
+00:09:25,200 --> 00:09:31,360
+
+or it may be designated as a schedule.
+
+
+119
+
+00:09:31,360 --> 00:09:36,200
+
+It is worth noting the scientific groundwork that the research team has
+
+
+120
+
+00:09:36,200 --> 00:09:39,520
+
+as in the summary, as in the information about the managers,
+
+
+121
+
+00:09:39,520 --> 00:09:46,320
+
+and in a separate paragraph, briefly, concisely, but at the same time, describe it sufficiently fully.
+
+
+122
+
+00:09:46,320 --> 00:09:50,640
+
