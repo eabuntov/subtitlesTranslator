@@ -1,0 +1,536 @@
+1
+
+00:00:00,240 --> 00:00:01,720
+
+Good afternoon, dear colleagues!
+
+
+2
+
+00:00:01,720 --> 00:00:07,720
+
+Today we will talk about modern methods for assessing the scientific performance of a scientist.
+
+
+3
+
+00:00:07,720 --> 00:00:13,120
+
+The question may arise: who and why needs to evaluate a scientist’s scientific performance?
+
+
+4
+
+00:00:13,120 --> 00:00:18,080
+
+There can be many answers to this question - including his own administration,
+
+
+5
+
+00:00:18,080 --> 00:00:24,040
+
+scientific supervisor and other interested organizations and individuals.
+
+
+6
+
+00:00:24,040 --> 00:00:29,960
+
+But we will talk about the main thing for graduate students and researchers -
+
+
+7
+
+00:00:30,760 --> 00:00:36,760
+
+reasons why we should be concerned about evaluating our scientific performance.
+
+
+8
+
+00:00:36,760 --> 00:00:42,680
+
+We all, I think, participate or want to participate in scientific grants.
+
+
+9
+
+00:00:42,680 --> 00:00:49,800
+
+Now, if we look at the application for a grant from the Russian Science Foundation (the main scientific fund
+
+
+10
+
+00:00:49,800 --> 00:00:53,400
+
+in the field of natural sciences and engineering),
+
+
+11
+
+00:00:53,400 --> 00:00:59,920
+
+then in each application it is mandatory when submitting the scientific team of this application
+
+
+12
+
+00:00:59,920 --> 00:01:01,880
+
+indicates the planned results of the project.
+
+
+13
+
+00:01:01,880 --> 00:01:08,120
+
+In particular, the number of publications that will be published in journals
+
+
+14
+
+00:01:08,120 --> 00:01:12,240
+
+from the Web of Science, Scopus database,
+
+
+15
+
+00:01:12,240 --> 00:01:17,320
+
+in the database of the Russian Science Citation Index, or eLibrary,
+
+
+16
+
+00:01:17,320 --> 00:01:21,160
+
+and in publications indexed in other databases.
+
+
+17
+
+00:01:21,160 --> 00:01:26,600
+
+We also immediately describe in which journals we plan to publish our work
+
+
+18
+
+00:01:26,600 --> 00:01:32,960
+
+and to which quartile, by which indicator these journals belong.
+
+
+19
+
+00:01:32,960 --> 00:01:37,360
+
+As a result, after completing the project, a scientific report is generated,
+
+
+20
+
+00:01:37,360 --> 00:01:42,160
+
+in which we ourselves fill out the list of published works.
+
+
+21
+
+00:01:42,160 --> 00:01:45,880
+
+They are automatically divided into categories,
+
+
+22
+
+00:01:45,880 --> 00:01:51,560
+
+whether they belong to Web of Science, Scopus, which quartiles, and so on.
+
+
+23
+
+00:01:51,560 --> 00:01:55,800
+
+Based on this list, the following statistical table is formed:
+
+
+24
+
+00:01:55,800 --> 00:01:58,040
+
+which is presented on the slide.
+
+
+25
+
+00:01:58,040 --> 00:02:02,640
+
+It compares the planned indicators of the application with actual indicators
+
+
+26
+
+00:02:02,640 --> 00:02:05,000
+
+for each year of the project.
+
+
+27
+
+00:02:05,000 --> 00:02:12,760
+
+The second example of an assessment that we are subject to is the Priority 2030 program.
+
+
+28
+
+00:02:12,760 --> 00:02:16,520
+
+It is known that the Ural Federal University is an active participant
+
+
+29
+
+00:02:16,520 --> 00:02:22,840
+
+federal program "Priority 2030" for the development of the scientific component of universities.
+
+
+30
+
+00:02:22,840 --> 00:02:27,320
+
+The rules of this program were approved by order of the Ministry of Science and Higher Education
+
+
+31
+
+00:02:27,320 --> 00:02:33,080
+
+Russian Federation dated May 31, 2021 and are still in effect.
+
+
+32
+
+00:02:33,080 --> 00:02:38,440
+
+In particular, these rules indicate two main scientific indicators
+
+
+33
+
+00:02:38,440 --> 00:02:40,840
+
+is the number of publications in scientific journals
+
+
+34
+
+00:02:40,840 --> 00:02:45,880
+
+first and second quartiles based on Web of Science data.
+
+
+35
+
+00:02:45,880 --> 00:02:48,280
+
+The second indicator is the number of publications,
+
+
+36
+
+00:02:48,280 --> 00:02:54,280
+
+indexed in the Scopus database and classified in the first and second quartiles of SNIP.
+
+
+37
+
+00:02:54,280 --> 00:02:57,840
+
+That is, the first indicator is calculated according to the impact factor from Web of Science,
+
+
+38
+
+00:02:57,840 --> 00:03:00,920
+
+the second indicator is based on SNIP from the Scopus database.
+
+
+39
+
+00:03:00,920 --> 00:03:07,720
+
+And joint publications are necessarily taken into account based on the fractional counting method.
+
+
+40
+
+00:03:07,720 --> 00:03:13,120
+
+That is, if an article has several authors, each of these authors has several affiliations,
+
+
+41
+
+00:03:13,120 --> 00:03:20,480
+
+then the organization is awarded only a fraction of the point for each publication.
+
+
+42
+
+00:03:20,480 --> 00:03:21,560
+
+What is SNIP?
+
+
+43
+
+00:03:21,560 --> 00:03:24,680
+
+This is the source-normalized impact factor of an article.
+
+
+44
+
+00:03:24,680 --> 00:03:28,240
+
+The indicator was proposed by Elsevier,
+
+
+45
+
+00:03:28,240 --> 00:03:31,960
+
+allows you to compare sources from different subject areas
+
+
+46
+
+00:03:31,960 --> 00:03:36,200
+
+and evaluate journal impact in citation weighting.
+
+
+47
+
+00:03:36,200 --> 00:03:39,640
+
+compared to the total number of citations in the subject area.
+
+
+48
+
+00:03:39,640 --> 00:03:42,120
+
+Its numerator is the average number of links,
+
+
+49
+
+00:03:42,120 --> 00:03:45,320
+
+and the denominator is the average citation in the subject area.
+
+
+50
+
+00:03:45,320 --> 00:03:51,200
+
+Thus, we can easily compare different subject areas with each other.
+
+
+51
+
+00:03:51,200 --> 00:03:57,080
+
+Fractional counting is a method of counting co-authored scientific articles.
+
+
+52
+
+00:03:57,080 --> 00:03:59,760
+
+where are taken into account as shares of the article,
+
+
+53
+
+00:03:59,760 --> 00:04:03,320
+
+which are distributed between organizations from different affiliations,
+
+
+54
+
+00:04:03,320 --> 00:04:07,720
+
+and the author's share, which depends on the number of authors in the article.
+
+
+55
+
+00:04:07,720 --> 00:04:14,120
+
+The factional score is calculated using this formula, that is, the sum of factional points
+
+
+56
+
+00:04:14,120 --> 00:04:21,080
+
+cannot exceed one for each article and in total for the organization
+
+
+57
+
+00:04:21,080 --> 00:04:24,120
+
+the sum is calculated for all authors,
+
+
+58
+
+00:04:24,120 --> 00:04:28,760
+
+for all affiliations, taking into account the factional account of the level of authors.
+
+
+59
+
+00:04:28,760 --> 00:04:33,480
+
+From the rector's report for 2022 we see
+
+
+60
+
+00:04:33,480 --> 00:04:38,680
+
+that in our Ural Federal University there are approximately 1,000 more publications
+
+
+61
+
+00:04:38,680 --> 00:04:40,200
+
+only a little over 300,
+
+
+62
+
+00:04:40,200 --> 00:04:45,960
+
+that is, approximately 1/3 of the points are due to the University on the factional score.
+
+
+63
+
+00:04:45,960 --> 00:04:51,160
+
+The rest relates either to other organizations of the Russian Federation,
+
+
+64
+
+00:04:51,160 --> 00:04:54,000
+
+or to international partners.
+
+
+65
+
+00:04:54,000 --> 00:04:57,680
+
+On what basis do we ourselves or our partners
+
+
+66
+
+00:04:57,680 --> 00:05:03,680
+
+can funds or administration evaluate our scientometric indicators?
+
+
+67
+
+00:05:03,680 --> 00:05:09,560
+
+Let's move on to a practical level and look at the data sources for such an assessment.
+
+
+68
+
+00:05:09,560 --> 00:05:14,920
+
+So, where can you find information about your own publications and scientometric indicators?
+
+
+69
+
+00:05:14,920 --> 00:05:18,000
+
+Naturally, history can and should be preserved
+
+
+70
+
+00:05:18,000 --> 00:05:22,360
+
+of their publications on paper or in electronic formats.
+
+
+71
+
+00:05:22,360 --> 00:05:28,000
+
+However, it is convenient to search in electronic database systems,
+
+
+72
+
+00:05:28,000 --> 00:05:31,800
+
+such as, for example, the electronic scientific library eLibrary.ru.
+
+
+73
+
+00:05:31,800 --> 00:05:38,120
+
+Here we can go to the directory of authors, and by last name
+
+
+74
+
+00:05:38,120 --> 00:05:43,680
+
+(I will use my last name throughout for simplicity),
+
+
+75
+
+00:05:43,680 --> 00:05:50,680
+
+You can find your own person by last name, especially if you are registered in the system.
+
+
+76
+
+00:05:50,680 --> 00:05:58,760
+
+For example, Evgeniy Aleksandrovich Buntov and by clicking on the list of his publications
+
+
+77
+
+00:05:58,760 --> 00:06:07,640
+
