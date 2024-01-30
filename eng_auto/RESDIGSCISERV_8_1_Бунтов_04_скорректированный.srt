@@ -1,66 +1,66 @@
 1
 00:00:00,080 --> 00:00:01,440
-Good afternoon, dear colleagues.
+Good afternoon, dear colleagues!
 
 2
 00:00:01,440 --> 00:00:07,400
-Today we will talk about scientific positioninguniversities at the global level.
+Today we will talk about scientific positioning of universities at the global level.
 
 3
 00:00:07,400 --> 00:00:14,560
-From the point of view of an outside observer - bethen an applicant, an administrator of another university,
+From the point of view of an outside observer - an applicant, an administrator or another university,
 
 4
 00:00:14,560 --> 00:00:17,800
-a simple man in the street - the quality and level of the university
+the quality and level of the university is
 
 5
 00:00:17,800 --> 00:00:22,520
-determined by internationaluniversity rankings,
+determined by international university rankings,
 
 6
 00:00:22,520 --> 00:00:26,080
-which exist in different countries.
+that exist in different countries.
 
 7
 00:00:26,080 --> 00:00:29,960
-Key positioning factorsuniversities in these rankings are
+Key positioning factors for universities in these rankings are
 
 8
 00:00:30,920 --> 00:00:35,960
-quality of research, that isquantity and quality of publications,
+quality of research, that is quantity and quality of publications,
 
 9
 00:00:35,960 --> 00:00:42,120
-citation level, results thatare transformed into technologies and developments,
+citation level, results that are transformed into technologies and know-how,
 
 10
 00:00:42,120 --> 00:00:44,320
-the international cooperation.
+the international collaboration.
 
 11
 00:00:44,320 --> 00:00:48,520
-The higher the percentage of internationalcollaboration between university scientists,
+The higher the percentage of international collaboration between university scientists,
 
 12
 00:00:48,520 --> 00:00:55,480
-as well as international exchange programsindicate the high level of the university.
+as well as international exchange programs indicate the high level of the university.
 
 13
 00:00:55,480 --> 00:01:03,040
-Academic reputation is determined bybased on surveys of experts in a similar field.
+Academic reputation is determined based on surveys of experts in a similar field,
 
 14
 00:01:03,040 --> 00:01:09,280
-Academic reputation is determined based onsurveys of academic experts and employers,
+both academic experts and employers.
 
 15
 00:01:09,280 --> 00:01:12,680
-lists of which annuallyare formed by universities,
+Lists of experts are formed by universities themselves annually,
 
 16
 00:01:12,680 --> 00:01:19,000
-are sent to international rankingsagencies for conducting surveys.
+then submitted to international rankings agencies for conducting surveys.
 
 17
 00:01:19,000 --> 00:01:21,760
@@ -68,119 +68,119 @@ In their questionnaires, experts can indicate
 
 18
 00:01:21,760 --> 00:01:26,520
-which universities do they consider the mostprestigious and authoritative.
+what universities do they consider the most prestigious and respected.
 
 19
 00:01:26,520 --> 00:01:31,360
-Based on similar responses andinternational ratings are being formed.
+Based on expert responses the international rankings are formed.
 
 20
 00:01:31,360 --> 00:01:37,040
-And finally, an important role is playedfunding and its volume for each university.
+Finally, funding plays an important role for each university.
 
 21
 00:01:37,040 --> 00:01:40,880
-Funding evidenceabout the level of the university and trust
+Funding indicates the level of the university and trust
 
 22
 00:01:40,880 --> 00:01:45,480
-from foundations and governmentand private organizations.
+from government foundations and private organizations.
 
 23
 00:01:45,480 --> 00:01:48,960
-The most famous arethree international ratings.
+There are three most famous international rankings.
 
 24
 00:01:48,960 --> 00:01:53,160
-These are the ratings publishedinternational agencies
+These are the rankings published by international agencies
 
 25
 00:01:53,160 --> 00:01:59,880
-such as Quacquarelli Symonds, magazinessuch as Times Higher Education
+such as Quacquarelli Symonds, journals like Times Higher Education
 
 26
 00:01:59,880 --> 00:02:07,760
-or other organizations like ChineseShanghai Ranking, also called ARWU.
+or other organizations like Chinese Shanghai Ranking, previously called ARWU.
 
 27
 00:02:07,760 --> 00:02:12,480
-Ratings are based onevaluation of universities according to criteria,
+Rankings are based on evaluation of universities according to criteria,
 
 28
 00:02:12,480 --> 00:02:14,680
-which were listed earlier.
+which were shown earlier.
 
 29
 00:02:14,680 --> 00:02:19,840
-For each specific rating, a listcriteria and their weights vary slightly.
+For each specific ranking, a list of criteria and their weights may vary.
 
 30
 00:02:19,840 --> 00:02:25,320
-That is, for the QS rating the highestacademic reputation carries weight,
+That is, for the QS rating the highest weight has academic reputation,
 
 31
 00:02:25,320 --> 00:02:27,840
-reputation among employers,
+then reputation among employers,
 
 32
 00:02:27,840 --> 00:02:32,200
-ratio of employees andstudents and specific citations,
+ratio of employees and students, scientific citations.
 
 33
 00:02:32,200 --> 00:02:36,880
-and for the Shanghai rating the mainthe criteria are the quality of education,
+For the Shanghai ranking the main criteria are the quality of education,
 
 34
 00:02:36,880 --> 00:02:42,640
-quality of teachingcomposition and research results and others.
+quality of teaching, research results and others.
 
 35
 00:02:42,640 --> 00:02:49,880
-For each of the three listed ratingsin its part, subject ratings are formed
+For each of the three listed ratingsin its part, subject rankings are formed
 
 36
 00:02:49,880 --> 00:02:54,120
-by subject areasdevelopment of science and technology.
+by subject areas in science and technology.
 
 37
 00:02:54,120 --> 00:02:59,760
-As an example, here areresults of Russian universities
+As an example, here are the results of Russian universities
 
 38
 00:02:59,760 --> 00:03:06,880
-in the QS World University Rankingsin terms of engineering and technology.
+in the QS World University Rankings in engineering and technology.
 
 39
 00:03:06,880 --> 00:03:13,760
-On the right is the score obtained fromindicators given on the previous slide,
+In the right column there is the score obtained from indicators given in the previous slide.
 
 40
 00:03:13,760 --> 00:03:17,920
-and as a result of sortingaccording to the specified total score
+The results are sorted by the specified total score.
 
 41
 00:03:17,920 --> 00:03:22,960
-we get a university placein the overall international ranking.
+At the left we get a university place in the overall international ranking.
 
 42
 00:03:22,960 --> 00:03:28,400
-As you can see, Moskovsky is in the lead herestate university with 57 places,
+As you can see, Moscow State University is leading here with 57th place,
 
 43
 00:03:28,400 --> 00:03:32,360
-a Ural Federal UniversityNot here in this category.
+while the Ural Federal University is not present in this category.
 
 44
 00:03:32,360 --> 00:03:38,120
-Although in other categories for example,chemistry, physics, materials science
+Although in other categories, for example, chemistry, physics, materials science
 
 45
 00:03:38,120 --> 00:03:40,680
-Ural University takes pride of place.
+Ural University takes its place.
 
 46
 00:03:40,680 --> 00:03:46,080
-By the QR code on the right you can findgeneral list of subject areas,
+By the QR code on the right you can find a complete list of subject areas,
 
 47
 00:03:46,080 --> 00:03:51,800
@@ -188,35 +188,35 @@ by which the ranking is madeby Quacquarelli Symonds.
 
 48
 00:03:51,800 --> 00:03:55,720
-If we take the Shanghai ratingand a slightly different subject area,
+If we take the Shanghai ranking and a slightly different subject area,
 
 49
 00:03:55,720 --> 00:04:03,440
-namely the field of mathematics, then in the latterline in the category 400-500 place,
+namely the field of mathematics, then in the last line in the category of 400-500,
 
 50
 00:04:03,440 --> 00:04:08,920
-in the category from 401 to 500th place wewe will see the Ural Federal University,
+we will see the Ural Federal University,
 
 51
 00:04:08,920 --> 00:04:13,520
-since the results of his research,graduate employment results
+since the results of its research, graduate employment results
 
 52
 00:04:13,520 --> 00:04:17,360
-and other parameters allowedhim to take such a place.
+and other parameters allowed it to take such a place.
 
 53
 00:04:17,360 --> 00:04:22,320
-Here for the big places, abovehundreds total score is unknown,
+Here for the places above one hundred the total score is not published,
 
 54
 00:04:22,320 --> 00:04:28,880
-therefore, only a cohort or list is givenplaces where the university is located.
+therefore, only a cohort of places is given where the university is located.
 
 55
 00:04:28,880 --> 00:04:33,440
-You can also find the QR code on the righta complete list of subject areas,
+You can also find the QR code on the right with a complete list of subject areas,
 
 56
 00:04:33,440 --> 00:04:36,560
@@ -224,11 +224,11 @@ by which the ranking is made.
 
 57
 00:04:36,560 --> 00:04:37,520
-Whats in Russia?
+What's in Russia?
 
 58
 00:04:37,520 --> 00:04:40,800
-There are also several ratings in Russia.
+There are also several rankings in Russia.
 
 59
 00:04:40,800 --> 00:04:43,600
@@ -236,19 +236,19 @@ As an example, here is the RAEX rating,
 
 60
 00:04:43,600 --> 00:04:47,200
-however, there are others suchlike the Interfax rating,
+however, there are others like one by Interfax,
 
 61
 00:04:47,200 --> 00:04:51,480
-Forbes magazine and other publications and organizations.
+Forbes and other organizations.
 
 62
 00:04:51,480 --> 00:04:56,600
-It is for RAEX that the criteria arereceiving quality education,
+It is for RAEX that the criteria are receiving quality education,
 
 63
 00:04:56,600 --> 00:04:59,800
-level of demandgraduates by employers
+level of graduates demand by employers
 
 64
 00:04:59,800 --> 00:05:02,640
@@ -256,7 +256,7 @@ and the level of research activity.
 
 65
 00:05:02,640 --> 00:05:07,680
-Universities are also analyzedin different thematic areas -
+Universities are also analyzed in different subject areas -
 
 66
 00:05:07,680 --> 00:05:11,360
@@ -264,31 +264,31 @@ from agriculture to technical sciences.
 
 67
 00:05:11,360 --> 00:05:18,680
-Often cultural organizations in the areacultures do not always fall into such ratings.
+Often the organizations working in the culture area do not fall into such rankings.
 
 68
 00:05:18,680 --> 00:05:23,460
-Here is a list of universitiesincluded in the Russian RAEX rating
+Here is a list of universities included in the Russian RAEX rating
 
 69
 00:05:23,460 --> 00:05:26,560
-and those who took first place up to tenth,
+and those who took first ten places,
 
 70
 00:05:26,560 --> 00:05:29,720
-on which the Uralsky is locatedFederal University.
+on which the Ural Federal University is located.
 
 71
 00:05:29,720 --> 00:05:35,680
-On the right is the overall score according to the rating criteria.
+On the right is the overall score according to the ranking criteria.
 
 72
 00:05:35,680 --> 00:05:39,600
-However, due to the largenumber of Russian ratings
+However, due to the large number of Russian rankings
 
 73
 00:05:39,600 --> 00:05:44,000
-you can see a list of them on this slide
+(you can see a list of them on this slide)
 
 74
 00:05:44,000 --> 00:05:46,120
@@ -296,27 +296,27 @@ aggregate ratings appeared,
 
 75
 00:05:46,120 --> 00:05:53,520
-which give some general ratingaccording to the list of special ratings.
+that give some general score based on the list of special rankings.
 
 76
 00:05:53,520 --> 00:05:57,880
-In particular, there is a Nationalaggregate ranking of universities,
+In particular, there is a National aggregate ranking of universities,
 
 77
 00:05:57,880 --> 00:06:05,600
-which is considering hundreds of universitiesRussia from a list of twelve ratings.
+It considers hundreds of universities in Russia from a list of twelve rankings.
 
 78
 00:06:05,600 --> 00:06:08,760
-As a result of calculating the overall indicator
+As a result of calculating the overall indicator,
 
 79
 00:06:08,760 --> 00:06:13,560
-based on the results of individualratings are formed in several leagues.
+several leagues are formed.
 
 80
 00:06:13,560 --> 00:06:19,040
-The Premier League includes 50 universitiesas they call it - Top 50,
+The Premier League includes 50 universities, the Top 50,
 
 81
 00:06:19,040 --> 00:06:22,360
@@ -324,43 +324,43 @@ the first league is Top 100 and so on.
 
 82
 00:06:22,360 --> 00:06:27,720
-And leagues six to nineand a tenth are in the alarm zone.
+And leagues six to ten are in the alarm zone.
 
 83
 00:06:27,720 --> 00:06:33,920
-If the university is included in these leagues,it has alarmingly low rates
+If the university is included in these leagues, it has alarmingly low rated
 
 84
 00:06:33,920 --> 00:06:39,040
-and must carry out active workto improve your performance.
+and must carry out active measures to improve its performance.
 
 85
 00:06:39,040 --> 00:06:44,960
-Unfortunately, this is not the case in Russian ratings yet.division by subject areas is common.
+Unfortunately, division by subject areas is not yet common in Russian rankings.  is common.
 
 86
 00:06:44,960 --> 00:06:50,600
-However, you can filter, for example,universities by affiliation
+However, you can filter, for example, universities by affiliation
 
 87
 00:06:50,600 --> 00:06:55,200
-to one or another ministryor this or that industry.
+to one or another ministry or industry.
 
 88
 00:06:55,200 --> 00:07:01,800
-What needs to be done to promotescientific and technical results of universities
+What needs to be done to promote scientific and technical results of a university
 
 89
 00:07:01,800 --> 00:07:04,920
-in international and Russian ratings?
+in international and Russian rankings?
 
 90
 00:07:04,920 --> 00:07:08,640
-Teams within universities, includingUral Federal University,
+Universities, including Ural Federal, form special teams to shape
 
 91
 00:07:08,640 --> 00:07:13,280
-a strategy for effectivepromotion according to all criteria,
+a strategy for effective promotion according to all criteria,
 
 92
 00:07:13,280 --> 00:07:16,520
@@ -368,37 +368,36 @@ including research results, alumni,
 
 93
 00:07:16,520 --> 00:07:20,520
-international interaction andinteraction with enterprises.
+international interaction and interaction with busyness.
 
 94
 00:07:20,520 --> 00:07:26,040
-It is necessary to monitor the use of socialnetworks, especially official accounts,
+It is necessary to monitor the use of social networks, especially official accounts,
 
 95
 00:07:26,040 --> 00:07:32,760
-issue press releases regularly andinteract with scientists in academic networks,
+issue press releases regularly and interact with scientists in academic networks,
 
 96
 00:07:32,760 --> 00:07:38,200
-it is necessary to transfer knowledge andparticipate in social events,
+It is also necessary to transfer knowledge and participate in social events,
 
 97
 00:07:38,200 --> 00:07:42,000
-be an active actor in this direction
+be an active actor in this direction.
 
 98
 00:07:42,000 --> 00:07:45,520
-and also actively interact both with society,
+They should also actively interact both with society and
 
 99
 00:07:45,520 --> 00:07:50,880
-so with politicians for promotiontheir results and their universities.
+with politicians for promote university achievements.
 
 100
 00:07:50,880 --> 00:07:55,080
-We wish good luck to our Universityin promotion in scientific rankings!
+We wish good luck to our University with its promotion in scientific rankings!
 
 101
 00:07:55,080 --> 00:07:55,840
 Thank you.
-
