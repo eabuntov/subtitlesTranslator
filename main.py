@@ -31,7 +31,7 @@ def translate_folders(source: str, dest: str):
                             dst.write('\n')
                         else:
                             translation = translator.translate(line.strip(), dest='en', src='ru')
-                            dst.write(re.sub(r'[^a-zA-Z0-9 \n\.А-Яа-я]',
+                            dst.write(re.sub(r'[^a-zA-Z0-9 \n\.\?\%\!\,\-А-Яа-я]',
                                                                       '', translation.text))
         except Exception as ex:
             print(ex)
