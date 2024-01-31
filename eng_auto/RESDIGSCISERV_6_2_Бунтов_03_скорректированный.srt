@@ -1,0 +1,524 @@
+1
+00:00:00,040 --> 00:00:01,560
+Good afternoon, dear colleagues.
+
+2
+00:00:01,560 --> 00:00:07,080
+Today we will talk about expert methods of assessment of a scientist's scientific performance.
+
+3
+00:00:07,080 --> 00:00:10,880
+When may we need an expert assessment?
+
+4
+00:00:10,880 --> 00:00:15,480
+For example, when applying for a job, when applying for a grant project
+
+5
+00:00:15,480 --> 00:00:21,800
+or when assessing the performance of a whole structural unit or a small scientific group.
+
+6
+00:00:21,800 --> 00:00:27,000
+As an example, let's consider the procedure of expert assessment by the Russian Science Foundation,
+
+7
+00:00:27,000 --> 00:00:31,920
+which occurs when we submit an application for examination.
+
+8
+00:00:31,920 --> 00:00:37,080
+The procedure is complex and expensive, consists of several stages,
+
+9
+00:00:37,080 --> 00:00:41,880
+and to carry out such an examination it is necessary at the first stage
+
+10
+00:00:41,880 --> 00:00:49,280
+to form a pool of experts in subject areas that corresponds to the grant application.
+
+11
+00:00:49,280 --> 00:00:54,200
+After this there is a formal check
+
+12
+00:00:54,200 --> 00:00:57,880
+based on characteristics from the competition documentation.
+
+13
+00:00:57,880 --> 00:01:00,840
+Next, an individual examination takes place,
+
+14
+00:01:00,840 --> 00:01:05,520
+which involves two to five experts per application.
+
+15
+00:01:05,520 --> 00:01:12,560
+Each expert writes a resume according of application assessment and fills in the questionnaire.
+
+16
+00:01:12,560 --> 00:01:16,880
+Applications are then reviewed at a meeting of the expert council section
+
+17
+00:01:16,880 --> 00:01:18,560
+by scientific areas.
+
+18
+00:01:18,560 --> 00:01:22,600
+Then applications are selected by expert councils,
+
+19
+00:01:22,600 --> 00:01:28,240
+are considered at a general meeting of the foundation expert council.
+
+20
+00:01:28,240 --> 00:01:33,160
+This is a big job, time-consuming, which requires
+
+21
+00:01:33,160 --> 00:01:36,960
+attracting various scientometric tools.
+
+22
+00:01:36,960 --> 00:01:40,760
+What means can help in an expert assessment?
+
+23
+00:01:40,760 --> 00:01:47,120
+Traditionally in this kind of procedures, the Hirsch index is used.
+
+24
+00:01:47,120 --> 00:01:50,760
+This is the number h, the maximum number h,
+
+25
+00:01:50,760 --> 00:01:54,880
+where the author publishes at least h articles,
+
+26
+00:01:54,880 --> 00:01:58,600
+and each of them is cited at least h times.
+
+27
+00:01:58,600 --> 00:02:07,320
+You can determine the h-factor or Hirsch index according to the graph shown in the slide.
+
+28
+00:02:07,320 --> 00:02:12,062
+This indicator is useful because at the same time it displays publication activity,
+
+29
+00:02:12,062 --> 00:02:16,360
+and the scientific authority of the author,which we are considering.
+
+30
+00:02:16,360 --> 00:02:19,920
+However, it has few drawbacks.
+
+31
+00:02:19,920 --> 00:02:26,520
+It is impossible to show various aspects of a scientists activity in one number.
+
+32
+00:02:26,520 --> 00:02:30,782
+This indicator is more profitable for experienced researchers
+
+33
+00:02:30,782 --> 00:02:34,360
+with a lot of publications and scientific work experience,
+
+34
+00:02:34,360 --> 00:02:39,160
+H-factor doesn't really suitable for comparing disciplines
+
+35
+00:02:39,160 --> 00:02:42,280
+with different average levels of citations.
+
+36
+00:02:42,280 --> 00:02:49,120
+Also for young researchers, for graduate students, the h-factor figure doesn't say much,
+
+37
+00:02:49,120 --> 00:02:53,080
+since their publications have not yet got enough citations,
+
+38
+00:02:53,080 --> 00:02:59,760
+It is recommended to young scientists to turn attention, in fact, to the publication process,
+
+39
+00:02:59,760 --> 00:03:03,400
+and the H-index will increase over time.
+
+40
+00:03:03,400 --> 00:03:09,200
+Also, the Hirsch index does not reflect the dynamics of a scientific work,
+
+41
+00:03:09,200 --> 00:03:15,040
+and if at some point in time the scientist stopped working in science,
+
+42
+00:03:15,040 --> 00:03:18,520
+then his H-index will remain as high or as low
+
+43
+00:03:18,520 --> 00:03:22,080
+as it was during the process of his work.
+
+44
+00:03:22,080 --> 00:03:27,640
+For proper accounting of scientific activities we need to carry out normalization,
+
+45
+00:03:27,640 --> 00:03:35,440
+in particular, comparing the number of citations in various fields of science.
+
+46
+00:03:35,440 --> 00:03:40,400
+As you can see from the picture on the right, for different subject areas
+
+47
+00:03:40,400 --> 00:03:46,440
+such as agriculture, biology, education, chemistry, physics,
+
+48
+00:03:46,440 --> 00:03:51,200
+completely different ratios of the number of published works to
+
+49
+00:03:51,200 --> 00:03:57,960
+average number of references are characteristic. The tendency to cite older works,
+
+50
+00:03:57,960 --> 00:04:03,720
+original works or fresh ones, came in recent years also varies.
+
+51
+00:04:03,720 --> 00:04:08,280
+For normalization, it is common to use percentiles.
+
+52
+00:04:08,280 --> 00:04:14,160
+Percentile is calculated based on type of publication, that is, for one type of publications
+
+53
+00:04:14,160 --> 00:04:19,160
+in the same subject category
+
+54
+00:04:19,160 --> 00:04:26,200
+and for works published in the same years as the work in question.
+
+55
+00:04:26,200 --> 00:04:31,160
+In the right graph you can see citation count curve
+
+56
+00:04:31,160 --> 00:04:37,320
+for articles in the field of inorganic chemistry, published in 2015.
+
+57
+00:04:37,320 --> 00:04:41,680
+A large number of works have small number of citations,
+
+58
+00:04:41,680 --> 00:04:48,240
+and a small number of works have a number of citations up to 430.
+
+59
+00:04:48,240 --> 00:04:51,640
+The number of citations is shown on the left axis.
+
+60
+00:04:51,640 --> 00:04:56,960
+On the right axis the percentile is shown, in which certain works fall into.
+
+61
+00:04:56,960 --> 00:05:01,840
+For example, if you received 30 citations per publication,
+
+62
+00:05:01,840 --> 00:05:07,800
+then your article falls into the 89th percentile by citation,
+
+63
+00:05:07,800 --> 00:05:13,200
+if we received 10 citations on publication - we fall into the 52nd percentile,
+
+64
+00:05:13,200 --> 00:05:18,600
+that is, 48% of publications have as many or more citations.
+
+65
+00:05:18,600 --> 00:05:24,040
+An indicator such as percentile allows taking into account the subject area of these publications,
+
+66
+00:05:29,720 --> 00:05:30,628
+thus allowing you to get rid of some shortcomings of the Hirsch index.
+
+67
+00:05:30,628 --> 00:05:33,880
+For a more adequate assessment of individual activities of scientists
+
+68
+00:05:33,880 --> 00:05:38,880
+Clarivate proposed a new type of diagram, which is called Beamplot.
+
+69
+00:05:38,880 --> 00:05:42,240
+It places the researcher's publications in context
+
+70
+00:05:42,240 --> 00:05:48,200
+and allows comparing and evaluating citations of his works by year.
+
+71
+00:05:48,200 --> 00:05:52,680
+This approach allows you to avoid reducing the results to one metric,
+
+72
+00:05:52,680 --> 00:05:57,560
+and based on the graph shown in the right picture,
+
+73
+00:05:57,560 --> 00:06:01,080
+you can think and discuss
+
+74
+00:06:01,080 --> 00:06:06,080
+why do a scientist citations look the way they look.
+
+75
+00:06:06,080 --> 00:06:13,200
+The vertical axis in the graph reflects date of publication, namely the year of publication.
+
+76
+00:06:13,200 --> 00:06:17,480
+The horizontal axis shows citation percentile,
+
+77
+00:06:17,480 --> 00:06:22,760
+and for each year individual publications are displayed by dots.
+
+78
+00:06:22,760 --> 00:06:26,400
+The dotted line shows median citation value,
+
+79
+00:06:26,400 --> 00:06:32,920
+that is, the citation percentile that is typical for all publications of the author.
+
+80
+00:06:32,920 --> 00:06:38,240
+The positive side of this schedule is taking into account the dynamics of publication activity.
+
+81
+00:06:38,240 --> 00:06:40,360
+For example, in the above graph we see,
+
+82
+00:06:40,360 --> 00:06:49,360
+that in 2014 the citation number of author's work was lower than in other years.
+
+83
+00:06:49,360 --> 00:06:54,400
+This chart is very helpful in solving a multiparameter problem
+
+84
+00:06:54,400 --> 00:07:00,960
+by choosing the best specialist for that or this position, one or another task.
+
+85
+00:07:00,960 --> 00:07:05,640
+For example, here is a table with the performance of four researchers
+
+86
+00:07:05,640 --> 00:07:07,360
+in the field of inorganic chemistry,
+
+87
+00:07:07,360 --> 00:07:12,720
+A, B, C and D - they all have different numbers of citations,
+
+88
+00:07:12,720 --> 00:07:18,240
+publications, h-index, average percentile and so on.
+
+89
+00:07:18,240 --> 00:07:22,280
+Naturally, the choice of the best one depends from the problem we are solving.
+
+90
+00:07:22,280 --> 00:07:26,280
+However, for a correct assessment one should look to
+
+91
+00:07:26,280 --> 00:07:32,040
+not just the numbers in the table, but also the Beamplot chart.
+
+92
+00:07:32,040 --> 00:07:38,120
+In particular, if we look simply into numbers, then for researcher A
+
+93
+00:07:38,120 --> 00:07:41,520
+we have the largest percentage of international works,
+
+94
+00:07:41,520 --> 00:07:44,400
+we have the highest h-index
+
+95
+00:07:44,400 --> 00:07:48,760
+and his other indicators are also at the level of other researchers.
+
+96
+00:07:48,760 --> 00:07:53,080
+However, taking into account the dynamics of publication activity
+
+97
+00:07:53,080 --> 00:07:55,720
+you can identify gaps in his career
+
+98
+00:07:55,720 --> 00:08:01,400
+or that he completed his scientific career in certain year.
+
+99
+00:08:01,400 --> 00:08:07,440
+As an example for researchers C and D are Beamplot charts,
+
+100
+00:08:07,440 --> 00:08:14,600
+on the basis of which it is possible to see that in 2014-2016
+
+101
+00:08:14,600 --> 00:08:24,000
+citations of researcher D on average was lower, than the citation rate of the works of scientist C,
+
+102
+00:08:24,000 --> 00:08:29,680
+however, the number of these works may be the same.
+
+103
+00:08:29,680 --> 00:08:36,080
+Based on the discussion, which necessarily one should carry out based on the results of constructing Beamplot,
+
+104
+00:08:36,080 --> 00:08:42,240
+you can select the optimal candidates for employment, for issuing a grant,
+
+105
+00:08:42,240 --> 00:08:48,880
+to perform a specific scientific task.
+
+106
+00:08:48,880 --> 00:08:52,040
+Where to find and how to build Beamplot?
+
+107
+00:08:52,040 --> 00:08:58,680
+The original version of Beamplot was proposedby Clarivate, integrated into Web of Science,
+
+108
+00:08:58,680 --> 00:09:05,600
+if you log into the system, you can find among researchers your own or someone else's surname,
+
+109
+00:09:05,600 --> 00:09:14,280
+press the search button, go to the list of researchers and go to your profile.
+
+110
+00:09:14,280 --> 00:09:20,600
+In particular, here in the first line my researcher profile is shown,
+
+111
+00:09:20,600 --> 00:09:25,280
+and on this personal page in the right column below
+
+112
+00:09:25,280 --> 00:09:32,480
+we can see a shortened Beamplot version for the entire history of the scientists work.
+
+113
+00:09:32,480 --> 00:09:39,120
+The minimum number of citations is shown there, maximum number of citations, percentile
+
+114
+00:09:39,120 --> 00:09:42,880
+and the median value as a green circle.
+
+115
+00:09:42,880 --> 00:09:47,640
+But when you click on the link, which is shown by the arrow,
+
+116
+00:09:47,640 --> 00:09:50,440
+we can move on to a more complete view
+
+117
+00:09:50,440 --> 00:09:55,880
+and look at the publications of a scientist over the past 10 years
+
+118
+00:09:55,880 --> 00:10:01,080
+or even throughout his entire career since the 1980s.
+
+119
+00:10:01,080 --> 00:10:06,480
+So we can look at citation of the scientists works
+
+120
+00:10:06,480 --> 00:10:12,200
+and the number of these works indexed in Web of Science database for various years,
+
+121
+00:10:12,200 --> 00:10:18,600
+make one decision or another based on such expert assessment.
+
+122
+00:10:18,600 --> 00:10:23,000
+What to do if we dont have access to Web of Science
+
+123
+00:10:23,000 --> 00:10:26,880
+and we can't build the plot automatically?
+
+124
+00:10:26,880 --> 00:10:30,960
+In this case we have free alternatives.
+
+125
+00:10:30,960 --> 00:10:36,160
+For example, in the R language a special library BibPlots was developed,
+
+126
+00:10:36,160 --> 00:10:42,680
+which includes the beamlot function, based on Web of Science-based data,
+
+127
+00:10:42,680 --> 00:10:49,080
+or on other databases, allows to generate a Beamplot chart.
+
+128
+00:10:49,080 --> 00:10:52,280
+Alternatively, if you have programming skills,
+
+129
+00:10:52,280 --> 00:10:59,160
+then using Python and Matplotlib library you can build such a graph yourself,
+
+130
+00:10:59,160 --> 00:11:05,120
+however, here you have to write a lot of code manually.
+
+131
+00:11:05,120 --> 00:11:06,960
+Thank you for your attention.
+
